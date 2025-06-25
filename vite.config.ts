@@ -5,6 +5,6 @@ export default defineConfig({
   base: '/Credit-risk-frontend/',
   plugins: [react()],
   optimizeDeps: {
-    exclude: ['lucide-react'],
+  exclude: ['lucide-react'],
   },
 });
