@@ -6,6 +6,13 @@ Cette application a été développée dans le cadre du stage d'intégration d'u
 
 Le système combine un backend robuste développé avec Flask et un frontend intuitif créé avec React, permettant une évaluation précise et rapide du risque de crédit basée sur 13 facteurs clés incluant les informations personnelles, financières et l'historique de crédit du demandeur.
 
+## 🌐 Démo
+
+- **Frontend** (GitHub Pages) : [➡️https://sallamihamza.github.io/Credit-risk-project/]
+- **Backend** (Github) : [➡️https://github.com/sallamihamza/Credit-risk-backend]
+
+- **Backend API** (Railway) : [➡️ https://web-production-f2f2.up.railway.app/]
+  
 ## Fonctionnalités principales
 
 ### Analyse prédictive avancée
